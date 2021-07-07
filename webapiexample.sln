@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapiexample", "webapiexample\webapiexample.csproj", "{2FB758ED-068E-4AF6-91ED-FB37786C69BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "migrations", "migrations\migrations.csproj", "{F05031D8-8BB1-480E-A163-41D478D53C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datalayer", "datalayer\datalayer.csproj", "{2BC1DCA0-EB62-4DDD-947D-1BA9215D181A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB758ED-068E-4AF6-91ED-FB37786C69BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB758ED-068E-4AF6-91ED-FB37786C69BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB758ED-068E-4AF6-91ED-FB37786C69BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB758ED-068E-4AF6-91ED-FB37786C69BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05031D8-8BB1-480E-A163-41D478D53C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05031D8-8BB1-480E-A163-41D478D53C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05031D8-8BB1-480E-A163-41D478D53C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05031D8-8BB1-480E-A163-41D478D53C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC1DCA0-EB62-4DDD-947D-1BA9215D181A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC1DCA0-EB62-4DDD-947D-1BA9215D181A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC1DCA0-EB62-4DDD-947D-1BA9215D181A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC1DCA0-EB62-4DDD-947D-1BA9215D181A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
